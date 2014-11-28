@@ -1,5 +1,17 @@
 body {
 font-family: 'Old Standard TT', serif;
 text-align: center;
-margin-top: 150px;
+margin-top: 80px;
+background-color: #F1A9A0;
+color: black;
+}
+
+p {
+  font-size: 13px;
+  letter-spacing: 0.05em;
+
+}
+
+h1 {
+  margin: 25px 0px;
 }
